@@ -1,6 +1,4 @@
-Here’s a simplified version of your `README.md` without emojis and with a more concise structure:
 
-````markdown
 # Machine Learning Project Collection
 
 This repository contains 5 Jupyter notebooks demonstrating different machine learning models. The notebook `exam_score_prediction.ipynb` is the main one and shows the best-performing model.
